@@ -1,7 +1,10 @@
 .TextContainer
 {
-    width: 520px;
-    height: 400px;
-    margin-left: 120px;
+    width: 100vw;
+    height: 100vh;
+    max-width: 520vmax;
+    max-height: 400vmax;
+    margin-left: 8.33vh;
     margin-top: 265px;
+
 }
