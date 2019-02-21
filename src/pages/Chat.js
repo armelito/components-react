@@ -5,7 +5,7 @@ import Header from '../components/home/header/Header';
 import Container from '../components/home/page/image-container/Container';
 import TextContainer from '../components/home/page/explication-container/TextContainer';
 
-class Home extends Component {
+class Chat extends Component {
   
     constructor(props) {
         super(props)
@@ -19,14 +19,12 @@ class Home extends Component {
     const {title} = this.props
     return (
 
-      <div className="AppOrange">
-            <Header></Header>
-            <TextContainer></TextContainer>
-            <Container></Container>
+      <div className="App">
+            
       </div>
 
     )
   }
 }
 
-export default Home;
+export default Chat;

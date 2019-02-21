@@ -1,0 +1,8 @@
+.Logo
+{
+    background-image: url('../../../../images/Logo.svg');
+    width: 124.81px;
+    height: 31.69px; 
+    margin-left: calc(100% - 1319.81px);
+    cursor: pointer;
+}
